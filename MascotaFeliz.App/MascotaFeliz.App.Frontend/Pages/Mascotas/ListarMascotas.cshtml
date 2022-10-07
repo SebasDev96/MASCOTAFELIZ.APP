@@ -1,0 +1,50 @@
+﻿@page
+@model MascotaFeliz.App.Frontend.Pages.ListarMascotasModel
+@{
+}
+
+       <h2>Listado de Mascotas</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Color</th>
+                <th>Especie</th>
+                <th>Raza</th>
+				<th>Acciones<th>
+            </tr>
+        </thead>
+
+        @foreach (var mascota in Model.listaMascotas)
+        {
+            <tr>
+                <td>@mascota.Nombre</td>
+                <td>@mascota.Color</td>
+                <td>@mascota.Especie</td>
+                <td>@mascota.Raza</td>
+                <td>                      
+					<a class="btn btn-primary table-btn" asp-page="./DetallesMascota" asp-route-mascotaId="@mascota.Id"> <i class="fa-solid fa-eye ms-1"></i>
+                    
+					</a>		
+                   <a class="btn btn-warning table-btn mx-3" asp-page="./EditarMascotas" asp-route-mascotaId= "@mascota.Id">
+				   
+					<i class="fa-solid fa-pencil ms-1"></i>
+
+					</a>
+
+                    <a class="btn btn-info table-btn" title="Asignar" asp-page="./AsignarMascota" asp-route-mascotaId= "@mascota.Id"><i class="fa-solid fa-address-book"></i>
+                    
+                    </a>
+
+                    <a class="btn btn-success table-btn" title="Historia" asp-page="./VerHistoria" asp-route-mascotaId= "@mascota.Id"><i class="fa-sharp fa-solid fa-clipboard"></i>
+                    
+                    </a>
+                     
+                   <a class="btn btn-danger table-btn" asp-page="./EliminarMascota" asp-route-mascotaId= "@mascota.Id">
+						<i class="fa-solid fa-trash ms-1"></i>
+					</a>
+
+                </td>
+            </tr>
+        }
+    </table>

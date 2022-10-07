@@ -1,0 +1,39 @@
+@page
+@model MascotaFeliz.App.Frontend.Pages.VerHistoriaModel
+@{
+
+}
+<main class="contenedor sombra">
+    
+    <h2>Historia de  @Model.Mascota.Nombre </h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Fecha</th>
+                <th>Veterinario</th>
+                <th>Temperatura</th>
+                <th>Peso (kg)</th>
+                <th>Frecuencia Respiratoria</th>
+                <th>Frecuencia Cardiaca</th>
+                <th>Estado de Animo</th>
+                <th>Recom </th>
+            </tr>
+        </thead>
+        @foreach (var x in Model.ListaVisitaspyp)
+        {
+            <tr>
+                <td data-table="Fecha:">@x.FechaVisita</td>
+                <td data-table="Veterinario:">@x.IdVeterinario</td>
+                <td data-table="Temp:">@x.Temperatura</td>
+                <td data-table="Peso:">@x.Peso</td>
+                <td data-table="F. Res:">@x.FrecuenciaRespiratoria</td>
+                <td data-table="F. Car:">@x.FrecuenciaCardiaca</td>
+                <td data-table="E: Animo:">@x.EstadoAnimo</td>
+                <td data-table="Recom:">@x.Recomendaciones</td>
+            </tr>
+        }
+        
+    </table>
+</main>
+
+

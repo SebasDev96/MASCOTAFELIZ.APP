@@ -1,0 +1,50 @@
+﻿@page
+@model MascotaFeliz.App.Frontend.Pages.DetallesMascotaModel
+@{
+}
+<main class="contenedor sombra">
+
+    <div class="titulo">
+         <h2>Detalle de Mascota</h2>
+    </div>
+    <div class="contenedor">
+        <div class="card">
+            <div class="card__inner">
+                <div class="card__front">
+                    <img src=" @Url.Content("~/img/fondo.jpg")" alt="Mascotas">
+                    <h3>@Model.mascota.Nombre</h3>
+                    <div class="card__asigancion">
+                        <div>
+                            <p>Veterinario</p>
+                            <p>@Model.mascota.Veterinario.Nombres @Model.mascota.Veterinario.Apellidos</p>
+                        </div>
+                        <div>
+                            <p>Dueño</p>
+                            <p>@Model.mascota.Dueno.Nombres @Model.mascota.Dueno.Apellidos</p>
+                        </div>
+                       
+                    </div>
+                </div>
+                <div class="card__back">
+                    
+                    <p class="detalle"> <span> Id:</span> <span class="card__span">@Model.mascota.Id</span> </p>
+                    <p class="detalle"> <span> Color:</span><span class="card__span"> @Model.mascota.Color</span></p>
+                    <p class="detalle"><span> Especie:</span><span class="card__span"> @Model.mascota.Especie</span></p>
+                    <p class="detalle"><span> Raza:</span><span class="card__span"> @Model.mascota.Raza</span></p>
+                </div>
+            </div>
+            @* <div class="card__head">
+                <h3>@Model.mascota.Nombre</h3>
+
+            </div>
+            <p class="detalle"> <span> Id:</span> <span class="card__span">@Model.mascota.Id</span> </p>
+            <p class="detalle"> <span> Color:</span><span class="card__span"> @Model.mascota.Color</span></p>
+            <p class="detalle"><span> Especie:</span><span class="card__span"> @Model.mascota.Especie</span></p>
+            <p class="detalle"><span> Raza:</span><span class="card__span"> @Model.mascota.Raza</span></p> *@
+        </div>
+
+    </div>
+    <div class="contenedor">
+        <a asp-page="./ListarMascotas" class="boton">Volver</a>
+    </div>
+</main>

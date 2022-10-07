@@ -1,0 +1,43 @@
+﻿@page
+@model MascotaFeliz.App.Frontend.Pages.AgregarVeterinarioModel
+@{
+}
+<main class="contenedor sombra">
+  <h2>Registro Veterinario</h2>
+
+        <div class="contenedor">
+        <form action="" class="formulario" method="post">
+            <div class="campos">
+                <div class="campo">
+                    <label for="nombre" class="campo__label">Nombres:</label>
+                    <input type="text" class="campo__texto2" id="nombre" asp-for="veterinario.Nombres" tabindex="2">
+                </div>
+
+                <div class="campo">
+                    <label for="apellido" class="campo__label">Apellidos:</label>
+                    <input type="text" class="campo__texto2" id="apellido" asp-for="veterinario.Apellidos"tabindex="3">
+                </div>
+
+                <div class="campo">
+                    <label for="direccion" class="campo__label">Dirección:</label>
+                    <input type="text" class="campo__texto2" id="direccion" asp-for="veterinario.Direccion" tabindex="4">
+                </div>
+
+                <div class="campo">
+                    <label for="telefono" class="campo__label">Teléfono:</label>
+                    <input type="text" class="campo__texto2" id="telefono" asp-for="veterinario.Telefono" tabindex="5">
+                </div>
+                <div class="campo">
+                    <label for="tarjeta" class="campo__label">T Prof:</label>
+                    <input type="text" class="campo__texto2" id="tarjeta" asp-for="veterinario.TarjetaProfesional" tabindex="6">
+                </div>
+            </div>
+            <div class="contenedor">
+                <input class="boton" type="submit" value="Guardar">
+                @* <input class="boton" type="submit" value="Actualizar">
+                <input class="boton" type="submit" value="Consultar">
+                <input class="boton" type="submit" value="Borrar"> *@
+            </div>
+        </form>
+        
+    </main>

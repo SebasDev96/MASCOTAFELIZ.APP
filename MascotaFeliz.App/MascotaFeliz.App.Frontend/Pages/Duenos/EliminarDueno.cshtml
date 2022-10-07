@@ -1,0 +1,49 @@
+﻿@page
+@model MascotaFeliz.App.Frontend.Pages.EliminarDuenoModel
+@{
+}
+<main class="contenedor sombra">
+        <div class="titulo">
+            <img class="titulo__imagen" src="@Url.Content("~/img/huella.svg")" alt="Huella">
+            <h2>Eliminar Dueño</h2>
+            <img class="titulo__imagen" src="@Url.Content("~/img/huella.svg")" alt="Huella">
+        </div>
+        <div class="contenido">
+        <form action="" class="formulario" method="post">
+            <div class="campos">
+                 <input type="hidden" asp-for="dueno.Id">
+                <div class="campo">
+                    <label for="nombre" class="campo__label">Nombres:</label>
+                    <input type="text" class="campo__texto" id="nombre" asp-for="dueno.Nombres" tabindex="2" readonly>
+                </div>
+
+                <div class="campo">
+                    <label for="apellido" class="campo__label">Apellidos:</label>
+                    <input type="text" class="campo__texto" id="apellido" asp-for="dueno.Apellidos"tabindex="3" readonly>
+                </div>
+
+                <div class="campo">
+                    <label for="direccion" class="campo__label">Dirección:</label>
+                    <input type="text" class="campo__texto" id="direccion" asp-for="dueno.Direccion" tabindex="4"readonly>
+                </div>
+
+                <div class="campo">
+                    <label for="telefono" class="campo__label">Teléfono:</label>
+                    <input type="text" class="campo__texto" id="telefono" asp-for="dueno.Telefono" tabindex="5" readonly>
+                </div>
+                <div class="campo">
+                    <label for="email" class="campo__label">Email:</label>
+                    <input type="text" class="campo__texto" id="email" asp-for="dueno.Correo" tabindex="6" readonly>
+                </div>
+            </div>
+            <div class="contenedor">
+                <input class="boton" type="submit" value="Eliminar">
+                @* <input class="boton" type="submit" value="Actualizar">
+                <input class="boton" type="submit" value="Consultar">
+                <input class="boton" type="submit" value="Borrar"> *@
+            </div>
+        </form>
+        <div class="imagenMascota"></div>
+        </div>
+        
+    </main>

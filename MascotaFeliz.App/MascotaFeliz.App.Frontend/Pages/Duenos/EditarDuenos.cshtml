@@ -1,0 +1,27 @@
+﻿@page
+@model MascotaFeliz.App.Frontend.Pages.EditarDuenosModel
+@{
+}
+<h2>Editar Dueños</h2>
+
+<div class="contenedor">
+    <form class="formulario" method="post">
+        <div class="campo">
+            <input type="hidden" asp-for = "dueno.Id" />
+            <label class="campo__label" asp-for="dueno.Nombres"></label>
+            <input asp-for="dueno.Nombres" class="form-control2"><br>
+            <label  class="campo__label" asp-for="dueno.Apellidos"></label>
+            <input asp-for="dueno.Apellidos" class="form-control2"><br>
+            <label class="campo__label" asp-for="dueno.Direccion"></label>
+            <input asp-for="dueno.Direccion" class="form-control2"><br>
+            <label class="campo__label" asp-for="dueno.Telefono"></label>
+            <input asp-for="dueno.Telefono" class="form-control2"><br>
+            <label  class="campo__label" asp-for="dueno.Correo"></label>
+            <input asp-for="dueno.Correo" class="form-control2"><br>
+
+            <button type="submit" class="btn btn-primary">Grabar</button>
+        </div>
+    </form>
+</div>
+
+<a asp-page="./ListarDuenos" class="btn-default">Lista de Dueños </a>

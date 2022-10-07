@@ -1,0 +1,77 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Mascota Feliz</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Carter+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Alata&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/estilos.css">
+</head>
+
+<body>
+    <header>
+
+ <nav class="navbar  bg-black navbar-expand-sm navbar-toggleable-sm  border-bottom box-shadow mb-3">
+    <div class="container">
+        <img class="me-3" src="../img/Logomini.png" width="80px" heigth="80px">
+        <a class="navbar-brand" asp-area="" asp-page="/Index">MASCOTA FELIZ</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+            <ul class="navbar-nav flex-grow-1">
+                <li class="nav-item"><a class="nav-link text-light" asp-area="" asp-page="/Index">Inicio</a>
+                </li>
+                <li class="nav-item"><a class="nav-link text-warning">Dueño</a>
+                   <ul>
+                       <li><a class="text-warning" href="/Duenos/AgregarDueno">Agregar Dueño</a></li>
+                       <li><a class="text-warning" href="/Duenos/ListarDuenos">Listar Dueño</a></li>
+                   </ul>                    
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-warning" asp-area="">Mascota</a>
+				   <ul>
+                       <li><a class="text-warning" href="/Mascotas/AgregarMascotas">Agregar Mascota</a></li>
+                       <li><a  class="text-warning" href="/Mascotas/ListarMascotas">Listar Mascotas</a></li>
+                   </ul>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-warning" asp-area="">Veterinario</a>
+                  <ul>
+                      <li><a class="nav-link text-warning" href="/Veterinarios/AgregarVeterinario">Agregar Veterinario</a></li>
+                      <li><a  class="nav-link text-warning" href="/Veterinarios/ListarVeterinarios">Listar Veterinarios</a></li>
+                  </ul>
+				</li>
+				<li class="nav-item">
+                    <a class="nav-link text-warning" asp-area="" asp-page="/VisitasPyP/EditarVisitasPyP">Visita</a>
+				</li>
+                <li class="nav-item">
+                    <a class="nav-link text-light" asp-area="" asp-page="/Login">Cerrar Sesión</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://kit.fontawesome.com/8deebe1542.js" crossorigin="anonymous"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+<footer>hola</footer>
+</html>

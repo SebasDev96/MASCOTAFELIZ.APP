@@ -1,0 +1,253 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+  color: #6d055ffd;
+  font-style: oblique;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #1b6ec2;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #c21b98;
+  border-color: #c21b98;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 1000px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+/*
+html {
+  position: relative;
+  min-height: 100%;
+}
+/*
+body {
+ 
+  margin-bottom: 60px;
+} 
+*/
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px; /* Vertically center the text there */
+  text-align: center;
+}
+
+/**********************************************************/
+/*se agregan estilos del compañero sebas*/
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+/*
+body{
+  font-family: 'Raleway', sans-serif;
+  min-height: 600px;
+  padding: 35px 0;
+  background-image: linear-gradient(to top, #a3bded 0%, #6991c7 100%);
+  background-color: #a3bded;
+  background-repeat: no-repeat;
+  display: flex;
+}
+*/
+body{
+  background-color: black;
+  background-image: url("../img/huesito.png");
+  background-size: cover;
+  height: 100%;
+} 
+
+.body2{
+  background-color: black;
+  background-size: cover;
+}
+
+.contenedor1{
+  width: 500px;
+  height: 500px;
+  margin: 1% 1%;
+  float: left;
+  padding-top: 50px;
+}
+.contenedor2{
+  width: 500px;
+  height: 100px;
+  float: left;
+}
+.container3{
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 5px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.main{
+
+
+  animation: mostrar 1.5s ease-in-out;
+}
+
+.mains{
+  margin: auto;
+
+  animation: mostrar 1.5s ease-in-out;
+}
+
+@keyframes mostrar {
+  0%{
+      opacity: 0;
+  }
+
+  100%{
+      opacity: 1;
+  }
+}
+
+.main__figure{
+  border-radius: 0.6em;
+  background-color: #909ec9;
+}
+
+.main__img{
+  margin: auto;
+  width: 80%;
+  max-width: 60vw;
+}
+
+.main__contact{
+  padding: .8em .3em;
+  text-align: center;
+}
+
+.main__form{
+  display: grid;
+  justify-items: center;
+  gap: 1em;
+}
+
+.main__input{
+  width: 80%;
+  max-width: 500px;
+  outline: none;
+  border: none;
+  padding: 1em;
+  font: inherit;
+  border-radius: .6em;
+}
+
+.main__input--send{
+  background-color: #bd574e;
+  color: #fff;
+  font-weight: 600;
+}
+
+.main__title{
+  font-size: 2.3rem;
+}
+
+.main__paragraph{
+  margin: .3em 0;
+}
+
+
+.main__social{
+  display: grid;
+  grid-auto-flow: column;
+  justify-content: center;
+  grid-auto-columns: max-content;
+  gap: 1em;
+}
+
+.main__link{
+  border: 1px solid #fff;
+  border-radius: 10px;
+  padding: .6em 1.5em;
+}
+
+.main__input--send:hover{
+  background-color: rgb(204, 156, 190);
+}
+
+.main__icon{
+  width: 30px;
+  height: 30px;
+}
+
+.menu{
+  list-style: none;
+  padding: 0;
+  width: 100%;
+  background-image: linear-gradient(to left, rgba(255, 255, 255, 0.472), rgba(255, 255, 255, 0.365));
+  max-width: 1000px;
+  margin: auto;
+  font-weight: bold;
+}
+
+.menu li a{
+  text-decoration: none;
+  color: rgb(31, 29, 29);
+  padding: 10px;
+  display: block;
+}
+
+.menu li{
+  display: inline-block;
+  text-align: center;
+}
+
+.menu li a:hover{
+  background: #bd574e;
+}
+
+.navbar {
+background-color: #000000;
+}
+
+.p1{
+  font-size: 2.8rem;
+  color: white;
+  font-style: oblique;
+}

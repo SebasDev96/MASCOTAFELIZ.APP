@@ -1,0 +1,43 @@
+﻿@page
+@model MascotaFeliz.App.Frontend.Pages.DetallesDuenosModel
+@{
+}
+
+<main class="contenedor sombra">
+
+    <div class="titulo">
+        <h2>Detalle de Dueños</h2>
+  </div>
+    <div class="contenedor">
+        <div class="card_vet">
+            <div class="card__inner_vet">
+                <div class="card__front_vet">
+                    <img src=" @Url.Content("~/img/fondo.jpg")" alt="Dueños">
+                    <h3>@Model.dueno.Nombres</h3>
+                </div>
+                <div class="card__back_vet">
+                    
+                    <p class="detalle_vet"> <span> Id:</span> <span class="card__span_vet">@Model.dueno.Id</span> </p>
+                    <p class="detalle_vet"> <span> Nombre:</span><span class="card__span_vet"> @Model.dueno.Nombres</span></p>
+                    <p class="detalle_vet"><span> Apellidos:</span><span class="card__span_vet"> @Model.dueno.Apellidos</span></p>
+                    <p class="detalle_vet"><span> Direccion:</span><span class="card__span_vet"> @Model.dueno.Direccion</span></p>
+                    <p class="detalle_vet"><span> Telefono:</span><span class="card__span_vet"> @Model.dueno.Telefono</span></p>
+                    <p class="detalle_vet"><span> Correo:</span><span class="card__span_vet"> @Model.dueno.Correo</span></p>
+                    
+                </div>
+            </div>
+            @* <div class="card__head">
+                <h3>@Model.mascota.Nombre</h3>
+
+            </div>
+            <p class="detalle"> <span> Id:</span> <span class="card__span">@Model.mascota.Id</span> </p>
+            <p class="detalle"> <span> Color:</span><span class="card__span"> @Model.mascota.Color</span></p>
+            <p class="detalle"><span> Especie:</span><span class="card__span"> @Model.mascota.Especie</span></p>
+            <p class="detalle"><span> Raza:</span><span class="card__span"> @Model.mascota.Raza</span></p> *@
+        </div>
+
+    </div>
+    <div class="contenedor">
+        <a asp-page="./ListarDuenos" class="boton">Volver</a>
+    </div>
+</main>

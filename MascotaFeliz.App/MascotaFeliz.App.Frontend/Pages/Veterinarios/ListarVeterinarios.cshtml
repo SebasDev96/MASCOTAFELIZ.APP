@@ -1,0 +1,50 @@
+﻿@page
+@model MascotaFeliz.App.Frontend.Pages.ListarVeterinariosModel
+@{
+}
+<main class="contenedor sombra">
+     <h2>Listado de Veterinarios</h2>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nombres</th>
+                <th>Apellidos</th>
+                <th>Direccion</th>
+                <th>Telefono</th>
+                <th>Tarjeta Profesional</th>
+            </tr>
+        </thead>
+
+        @foreach (var veterinario in Model.listaVeterinarios)
+        {
+            <tr>
+                <td data-table="Nombres: ">@veterinario.Nombres</td>
+                <td data-table="Apellidos: ">@veterinario.Apellidos</td>
+                <td data-table="Dirección: ">@veterinario.Direccion</td>
+                <td data-table="Teléfono: ">@veterinario.Telefono</td>
+                <td data-table="Tarjeta Profesional: ">@veterinario.TarjetaProfesional</td>
+
+                <td class="td-button">
+                    <div>
+                        <a class="btn btn-primary table-btn" title="Detalles" asp-page="./DetallesVeterinario" asp-route-veterinarioId= "@veterinario.Id"><i class="fa-solid fa-eye ms-1"></i></a>
+                        
+                    </div>
+                </td>
+                <td class="td-button">
+                    <div>
+                        <a class="btn btn-warning table-btn mx-3" title="Editar" asp-page="./EditarVeterinarios" asp-route-veterinarioId= "@veterinario.Id">
+						<i class="fa-solid fa-pencil ms-1"></i></a>
+                    </div>
+
+                </td>
+               <td class="td-button">
+                 <div>
+                    <a class="btn btn-danger table-btn" title="Borrar" asp-page="./EliminarVeterinario" asp-route-veterinarioId= "@veterinario.Id"><i class="fa-solid fa-trash ms-1"></i></a>
+                 </div>
+               </td>
+                <br>
+            </tr>
+        }
+    </table>
+</main>

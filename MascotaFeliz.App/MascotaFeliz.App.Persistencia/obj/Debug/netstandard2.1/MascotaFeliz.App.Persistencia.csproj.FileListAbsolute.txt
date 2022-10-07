@@ -1,0 +1,123 @@
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csprojAssemblyReference.cache
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfoInputs.cache
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfo.cs
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.deps.json
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.pdb
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CopyComplete
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Mascotas\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csprojAssemblyReference.cache
+C:\Mascotas\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfoInputs.cache
+C:\Mascotas\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfo.cs
+C:\Mascotas\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Mascotas\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Mascotas\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Mascotas\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.deps.json
+C:\Mascotas\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Mascotas\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Mascotas\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.dll
+C:\Mascotas\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.pdb
+C:\Mascotas\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CopyComplete
+E:\Misiontic\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.deps.json
+E:\Misiontic\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+E:\Misiontic\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+E:\Misiontic\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.dll
+E:\Misiontic\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.pdb
+E:\Misiontic\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csprojAssemblyReference.cache
+E:\Misiontic\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfoInputs.cache
+E:\Misiontic\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfo.cs
+E:\Misiontic\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CoreCompileInputs.cache
+E:\Misiontic\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CopyComplete
+E:\Misiontic\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+E:\Misiontic\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Users\PC\Documents\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.deps.json
+C:\Users\PC\Documents\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Users\PC\Documents\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Users\PC\Documents\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.dll
+C:\Users\PC\Documents\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.pdb
+C:\Users\PC\Documents\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\PC\Documents\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfo.cs
+C:\Users\PC\Documents\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CopyComplete
+C:\Users\PC\Documents\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Users\PC\Documents\MascotaFeliz\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+E:\Misiontic\nuevoProvisional\ProvisionalMF\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.deps.json
+E:\Misiontic\nuevoProvisional\ProvisionalMF\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+E:\Misiontic\nuevoProvisional\ProvisionalMF\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+E:\Misiontic\nuevoProvisional\ProvisionalMF\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.dll
+E:\Misiontic\nuevoProvisional\ProvisionalMF\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.pdb
+E:\Misiontic\nuevoProvisional\ProvisionalMF\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csprojAssemblyReference.cache
+E:\Misiontic\nuevoProvisional\ProvisionalMF\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfoInputs.cache
+E:\Misiontic\nuevoProvisional\ProvisionalMF\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfo.cs
+E:\Misiontic\nuevoProvisional\ProvisionalMF\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CoreCompileInputs.cache
+E:\Misiontic\nuevoProvisional\ProvisionalMF\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CopyComplete
+E:\Misiontic\nuevoProvisional\ProvisionalMF\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+E:\Misiontic\nuevoProvisional\ProvisionalMF\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Users\Acer\Documents\Nueva carpeta\ProvisionalMF\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.deps.json
+C:\Users\Acer\Documents\Nueva carpeta\ProvisionalMF\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Users\Acer\Documents\Nueva carpeta\ProvisionalMF\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Users\Acer\Documents\Nueva carpeta\ProvisionalMF\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.dll
+C:\Users\Acer\Documents\Nueva carpeta\ProvisionalMF\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.pdb
+C:\Users\Acer\Documents\Nueva carpeta\ProvisionalMF\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\Nueva carpeta\ProvisionalMF\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\Nueva carpeta\ProvisionalMF\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfo.cs
+C:\Users\Acer\Documents\Nueva carpeta\ProvisionalMF\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Nueva carpeta\ProvisionalMF\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CopyComplete
+C:\Users\Acer\Documents\Nueva carpeta\ProvisionalMF\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Users\Acer\Documents\Nueva carpeta\ProvisionalMF\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Users\PC\Documents\RepoProvicional\ProvisionalMF\mascotafeliz.app\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.deps.json
+C:\Users\PC\Documents\RepoProvicional\ProvisionalMF\mascotafeliz.app\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Users\PC\Documents\RepoProvicional\ProvisionalMF\mascotafeliz.app\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Users\PC\Documents\RepoProvicional\ProvisionalMF\mascotafeliz.app\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.dll
+C:\Users\PC\Documents\RepoProvicional\ProvisionalMF\mascotafeliz.app\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.pdb
+C:\Users\PC\Documents\RepoProvicional\ProvisionalMF\mascotafeliz.app\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\PC\Documents\RepoProvicional\ProvisionalMF\mascotafeliz.app\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\RepoProvicional\ProvisionalMF\mascotafeliz.app\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfo.cs
+C:\Users\PC\Documents\RepoProvicional\ProvisionalMF\mascotafeliz.app\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\RepoProvicional\ProvisionalMF\mascotafeliz.app\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CopyComplete
+C:\Users\PC\Documents\RepoProvicional\ProvisionalMF\mascotafeliz.app\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Users\PC\Documents\RepoProvicional\ProvisionalMF\mascotafeliz.app\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Users\milus\Desktop\ProvisionalMF-main\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.deps.json
+C:\Users\milus\Desktop\ProvisionalMF-main\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Users\milus\Desktop\ProvisionalMF-main\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Users\milus\Desktop\ProvisionalMF-main\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.dll
+C:\Users\milus\Desktop\ProvisionalMF-main\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.pdb
+C:\Users\milus\Desktop\ProvisionalMF-main\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\milus\Desktop\ProvisionalMF-main\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfo.cs
+C:\Users\milus\Desktop\ProvisionalMF-main\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\milus\Desktop\ProvisionalMF-main\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CopyComplete
+C:\Users\milus\Desktop\ProvisionalMF-main\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Users\milus\Desktop\ProvisionalMF-main\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Users\milus\Desktop\ProvisionalMF-main\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.AssemblyReference.cache
+C:\Users\milus\Desktop\ProvisionalMF-main\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Huesitos\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.deps.json
+C:\Huesitos\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Huesitos\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Huesitos\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.dll
+C:\Huesitos\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.pdb
+C:\Huesitos\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.AssemblyReference.cache
+C:\Huesitos\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Huesitos\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfoInputs.cache
+C:\Huesitos\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfo.cs
+C:\Huesitos\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Huesitos\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CopyComplete
+C:\Huesitos\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Huesitos\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Users\milus\Downloads\proyecto final\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.deps.json
+C:\Users\milus\Downloads\proyecto final\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Users\milus\Downloads\proyecto final\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Users\milus\Downloads\proyecto final\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.dll
+C:\Users\milus\Downloads\proyecto final\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.pdb
+C:\Users\milus\Downloads\proyecto final\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.AssemblyReference.cache
+C:\Users\milus\Downloads\proyecto final\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milus\Downloads\proyecto final\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\milus\Downloads\proyecto final\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfo.cs
+C:\Users\milus\Downloads\proyecto final\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\milus\Downloads\proyecto final\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CopyComplete
+C:\Users\milus\Downloads\proyecto final\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Users\milus\Downloads\proyecto final\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb

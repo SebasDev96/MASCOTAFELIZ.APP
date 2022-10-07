@@ -1,0 +1,43 @@
+﻿@page
+@model MascotaFeliz.App.Frontend.Pages.DetallesVeterinarioModel
+@{
+}
+<main class="contenedor sombra">
+
+    <div class="titulo">
+<h2>Detalle de Veterinario</h2>
+    </div>
+    <div class="contenedor">
+        <div class="card_vet">
+            <div class="card__inner_vet">
+                <div class="card__front_vet">
+                    <img src=" @Url.Content("~/img/fondo.jpg")" alt="Mascotas">
+                    <h3>@Model.veterinario.Nombres</h3>
+                </div>
+                <div class="card__back_vet">
+                    <p class="detalle_vet"> <span> Id:</span> <span class="card__span_vet">@Model.veterinario.Id</span> </p>
+                    <p class="detalle_vet"> <span> Nombres:</span><span class="card__span_vet"> @Model.veterinario.Nombres</span></p>
+                    <p class="detalle_vet"><span> Apellidos:</span><span class="card__span_vet"> @Model.veterinario.Apellidos</span></p>
+                    <p class="detalle_vet"><span> Direccion:</span><span class="card__span_vet"> @Model.veterinario.Direccion</span></p>
+                    <p class="detalle_vet"><span> Teléfono:</span><span class="card__span_vet"> @Model.veterinario.Telefono</span></p>
+                    <p class="detalle_vet"><span> Tarjeta Profesional:</span><span class="card__span_vet"> @Model.veterinario.TarjetaProfesional</span></p>
+                </div>
+            </div>
+            @* <div class="card__head">
+                <h3>@Model.mascota.Nombre</h3>
+
+            </div>
+            <p class="detalle"> <span> Id:</span> <span class="card__span">@Model.veterinario.Id</span> </p>
+                    <p class="detalle"> <span> Nombres:</span><span class="card__span"> @Model.veterinario.Nombres</span></p>
+                    <p class="detalle"><span> Apellidos:</span><span class="card__span"> @Model.veterinario.Apellidos</span></p>
+                    <p class="detalle"><span> Direccion:</span><span class="card__span"> @Model.veterinario.Direccion</span></p>
+                    <p class="detalle"><span> Teléfono:</span><span class="card__span"> @Model.veterinario.Telefono</span></p>
+                    <p class="detalle"><span> Tarjeta Profesional:</span><span class="card__span"> @Model.veterinario.TarjetaProfesional</span></p>*@
+        </div>
+        <div class="imagenMascota"></div>
+
+    </div>
+    <div class="contenedor">
+        <a asp-page="./ListarVeterinarios" class="boton">Volver</a>
+    </div>
+</main>

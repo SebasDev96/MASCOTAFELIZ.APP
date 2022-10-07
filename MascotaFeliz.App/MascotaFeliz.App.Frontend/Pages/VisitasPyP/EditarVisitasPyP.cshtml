@@ -1,0 +1,80 @@
+﻿@page
+@model MascotaFeliz.App.Frontend.Pages.EditarVisitasPyPModel
+@{
+}
+<main class="contenedor sombra">
+      <h2>Agregar Visitas</h2>
+
+    <div class="contenido">
+        <form action="" class="formulario" method="post">
+            <div class="campos">
+                <input class="form-control2" type="hidden" asp-for="visitaPyP.Id">
+                <div class="campo">
+                    <label for="Fecha" class="campo__label"> FechaVisita:</label>
+                    <input class="form-control2" asp-for="visitaPyP.FechaVisita" type="date" value="@Model.visitaPyP.FechaVisita"  id="FechaVisita"
+                        tabindex="1">
+                </div>
+
+                <div class="campo">
+                    <label for="Temperatura" class="campo__label">Temperatura:</label>
+                    <input asp-for="visitaPyP.Temperatura" type="text" class="campo__texto2" id="Temperatura"
+                        tabindex="2">
+                </div>
+
+                <div class="campo">
+                    <label for="Peso" class="campo__label">Peso:</label>
+                    <input asp-for="visitaPyP.Peso" type="text" class="campo__texto2" id="Peso" tabindex="3">
+                </div>
+
+                <div class="campo">
+                    <label for="Fr.Respiratoria" class="campo__label">Fr.Respiratoria:</label>
+                    <input asp-for="visitaPyP.FrecuenciaRespiratoria" type="text" class="campo__texto2"
+                        id="Fr.Respiratoria" tabindex="4">
+                </div>
+                <div class="campo">
+                    <label for="Fr.Cardiaca" class="campo__label">Frecuencia:</label>
+                    <input asp-for="visitaPyP.FrecuenciaCardiaca" type="text" class="campo__texto2" id="Fre.Cardiaca"
+                        tabindex="5">
+                </div>
+
+                <div class="campo">
+                    <label for="Est.Animo" class="campo__label">EstadoAnimo:</label>
+                    <input asp-for="visitaPyP.EstadoAnimo" type="text" class="campo__texto2" id="EstadoAnimo"
+                        tabindex="6">
+                </div>
+                <div class="campo">
+                    <label for="Mascota" class="campo__label">Mascota:</label>
+                    <select id="Mascota" name="mascotaId" class="campo__texto2" asp-for="mascotaId">
+                        <option value="0">-Seleccione una opción-</option>
+                        @foreach (var m in Model.mascotas)
+                        {
+                            <option value="@m.Id">@m.Nombre </option>
+
+                        }
+                    </select>
+                </div>
+                <div class="campo">
+                    <label for="Veterinario" class="campo__label">Veterinario:</label>
+                    <select id="Veterinario" name="vetId" class="campo__texto2" asp-for="visitaPyP.IdVeterinario">
+                        <option value="0">-Seleccione una opción-</option>
+                        @foreach (var v in Model.veterinarios)
+                        {
+                            <option value="@v.Id">@v.Nombres @v.Apellidos </option>
+
+                        }
+                    </select>
+                </div>
+                <div class="campo">
+                    <label for="Recomendaciones" class="campo__label">Recomendaciones:</label>
+                    <input asp-for="visitaPyP.Recomendaciones" type="text" class="campo__texto2" id="Recomendaciones"
+                        tabindex="8">
+                </div>
+            </div>
+            <div class="contenedor">
+                <input class="boton" type="submit" value="Guardar">
+                 <a asp-page="./ListarVisitasPyP" class="boton">Volver</a>
+            </div>
+            
+        </form>
+    </div>
+</main>
